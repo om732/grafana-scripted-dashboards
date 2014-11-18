@@ -31,3 +31,5 @@
 ## アクセス
 - http://xxx.xxx.xxx.xxx/#/dashboard/script/scripted.js
 
+## 詳細は
+- http://og732.hatenadiary.com/entry/2014/11/18/234807
